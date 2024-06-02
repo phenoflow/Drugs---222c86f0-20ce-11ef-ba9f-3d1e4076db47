@@ -1,0 +1,96 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/drugs-lidocaine---primary.py
+inputModule3:
+  class: File
+  path: python/drugs-semisodium---primary.py
+inputModule4:
+  class: File
+  path: python/drugs-flecainide---primary.py
+inputModule5:
+  class: File
+  path: python/drugs-procainamide---primary.py
+inputModule6:
+  class: File
+  path: python/drugs-oxcarbazepine---primary.py
+inputModule7:
+  class: File
+  path: python/drugs-amiodarone---primary.py
+inputModule8:
+  class: File
+  path: python/drugs-lamotrigine---primary.py
+inputModule9:
+  class: File
+  path: python/valproic-drugs---primary.py
+inputModule10:
+  class: File
+  path: python/drugs-prilocaine---primary.py
+inputModule11:
+  class: File
+  path: python/drugs-lacosamide---primary.py
+inputModule12:
+  class: File
+  path: python/drugs-propafenone---primary.py
+inputModule13:
+  class: File
+  path: python/drugs-fosphenytoin---primary.py
+inputModule14:
+  class: File
+  path: python/drugs-topiramate---primary.py
+inputModule15:
+  class: File
+  path: python/drugs-bisulphate---primary.py
+inputModule16:
+  class: File
+  path: python/drugs-zonisamide---primary.py
+inputModule17:
+  class: File
+  path: python/drugs---primary.py
+inputModule18:
+  class: File
+  path: python/drugs-phosphate---primary.py
+inputModule19:
+  class: File
+  path: python/drugs-mexiletine---primary.py
+inputModule20:
+  class: File
+  path: python/drugs-tartrate---primary.py
+inputModule21:
+  class: File
+  path: python/drugs-disopyramide---primary.py
+inputModule22:
+  class: File
+  path: python/drugs-ranolazine---primary.py
+inputModule23:
+  class: File
+  path: python/drugs-eslicarbazepine---primary.py
+inputModule24:
+  class: File
+  path: python/drugs-rufinamide---primary.py
+inputModule25:
+  class: File
+  path: python/drugs-riluzole---primary.py
+inputModule26:
+  class: File
+  path: python/drugs-gluconate---primary.py
+inputModule27:
+  class: File
+  path: python/drugs-dronedarone---primary.py
+inputModule28:
+  class: File
+  path: python/drugs-tocainide---primary.py
+inputModule29:
+  class: File
+  path: python/drugs-moracizine---primary.py
+inputModule30:
+  class: File
+  path: python/drugs-adrenaline---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
